@@ -1,0 +1,11 @@
+{
+    "url_playstore": "https://play.google.com/store/apps/details?id=com.gmail.ivma.monitor_italia",
+    "url_appstore": "https://vimae.altervista.org/cov_italia/linkAppleStore.php",
+    "url_dati_province": "http://vimae.altervista.org/cov_italia/dati_json/province.json",
+    "url_dati_regioni": "http://vimae.altervista.org/cov_italia/dati_json/regioni.json",
+    "url_dati_nazione": "http://vimae.altervista.org/cov_italia/dati_json/nazioni.json",
+    "url_dati_mondo": "https://thevirustracker.com/free-api?countryTotals=ALL",
+    "url_ws_copia_dati":"https://vimae.altervista.org/cov_italia/copiaDati.php",
+    "app_version_code": "26",
+	"data_ultimo_aggiornamento":"2020-04-02"
+}

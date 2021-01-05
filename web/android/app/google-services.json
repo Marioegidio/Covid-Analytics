@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1043034320271",
+    "firebase_url": "https://chat-italia.firebaseio.com",
+    "project_id": "chat-italia",
+    "storage_bucket": "chat-italia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043034320271:android:04eacf6d9f6dd8c061effa",
+        "android_client_info": {
+          "package_name": "com.gmail.ivma.chatitalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043034320271-d9q217l6atm22d9ksuoml1vk4aa9j6nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvYmvcyhJbiG-5LyQWlXl5QCpYjcZ7qR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043034320271-d9q217l6atm22d9ksuoml1vk4aa9j6nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043034320271:android:ad897978b9e00efc61effa",
+        "android_client_info": {
+          "package_name": "com.gmail.ivma.monitor_italia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043034320271-d9q217l6atm22d9ksuoml1vk4aa9j6nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvYmvcyhJbiG-5LyQWlXl5QCpYjcZ7qR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043034320271-d9q217l6atm22d9ksuoml1vk4aa9j6nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
